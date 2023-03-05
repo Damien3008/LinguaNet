@@ -27,7 +27,7 @@ def init_parser():
     Returns:
         dict: dictionnary of parameters.
     """
-    parser = argparse.ArgumentParser(description='CIFAR quick training script')
+    parser = argparse.ArgumentParser(description='Neural Translation quick training script')
     parser.add_argument('--data_number', default=20000, type=int, metavar='N',
                             help='number of total pair of sentences to extract')
 
