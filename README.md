@@ -1,4 +1,4 @@
-# Neural translation
+# LinguaNet: Neural Machine Translation from English to German
 
 <img src="./data/germany_uk_flags.png" width="500px"></img>
 
